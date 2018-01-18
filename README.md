@@ -1,4 +1,5 @@
-# {{ name }}
+# DayimKonduktor Web
+[![onizleme](README.png)](http://karsrail.batuhan.org)
 
 ## CLI Commands
 
@@ -14,6 +15,13 @@ npm run build
 
 # test the production build locally
 npm run serve
+
+# deploy to surge.sh
+npm run deploy
 ```
 
-For detailed explanation on how things work, checkout the [CLI Readme](https://github.com/developit/preact-cli/blob/master/README.md).
+## Links
+
+[Demo webpage](http://karsrail.batuhan.org/)
+
+[DayimKonduktor cron script](https://github.com/BatuhanK/DayimKonduktor_cron)
