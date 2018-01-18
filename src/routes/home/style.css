@@ -1,0 +1,19 @@
+.home {
+	padding: 66px 20px;
+	min-height: 100%;
+	width: 100%;
+}
+.loading {
+	padding-top: 250px;
+	width: 100%;
+	min-height: 100%;
+	text-align: center;
+}
+.lastUpdate {
+	text-align: center;
+	padding: 30px;
+}
+.timeago {
+	font-weight: 300;
+	color: #5e5e5e;
+}

@@ -1,0 +1,11 @@
+{
+  "name": "KarsRail",
+  "short_name": "karsrail",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff",
+  "theme_color": "#2c3e50",
+  "icons": [
+  ]
+}
